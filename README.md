@@ -1,2 +1,23 @@
 # web_stopwatch_work
- Cronometro web para logar sua horas de trabalho
+
+Cronômetro web para logar (salvar) suas horas de trabalho.
+
+## Interface
+
+![interface](interface.png)
+
+## Acesso
+
+A página está publicada em http://timer.techgenial.com.br
+
+## Demonstração da aplicação
+
+![uso](interface-uso.png)
+
+## Tecnologias
+
+- HTML
+
+- CSS
+
+- Javascript
