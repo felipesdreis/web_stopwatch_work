@@ -2,22 +2,20 @@
 
 Cronômetro web para logar (salvar) suas horas de trabalho.
 
-## Interface
+## Demonstração
 
 ![interface](interface.png)
+
+## Uso/Exemplos
+
+![uso](interface-uso.png)
 
 ## Acesso
 
 A página está publicada em http://timer.techgenial.com.br
 
-## Demonstração da aplicação
+## Stack utilizada
 
-![uso](interface-uso.png)
+**Front-end:** HTML, CSS
 
-## Tecnologias
-
-- HTML
-
-- CSS
-
-- Javascript
+**Back-end:** Javascript
