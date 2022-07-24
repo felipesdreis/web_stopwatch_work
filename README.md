@@ -21,3 +21,9 @@ A página está publicada em http://timer.techgenial.com.br
 - CSS
 
 - Javascript
+
+#### Run local (container)
+
+```shell
+podman run --name site-stopwatch -v ./:/usr/share/nginx/html:ro -d -p 8081:80 docker.io/library/nginx
+```
